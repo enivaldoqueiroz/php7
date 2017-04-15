@@ -1,5 +1,5 @@
 <?
 
-echo "Codigo em PHP - <strong>Olá, Mundo!!!!</strong>";
+echo "Codigo em PHP - <strong>Olá, Mundo!!!!!!!!</strong>";
 
 ?>
